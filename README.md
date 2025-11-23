@@ -36,3 +36,19 @@ online-job-portal/
 │  └─ mysql-connector-j-9.0.0.jar
 └─ README.md
 </pre>
+Features
+- Admin dashboard: user/job management, settings
+- Employer dashboard: job posting, application review, messaging
+- Job Seeker dashboard: job search, apply, track status, manage profile
+- Real-time notifications & activity monitoring via threads
+
+Technologies
+- Java SE
+- MySQL + JDBC
+- Collections Framework
+- Multithreading (Runnable, BlockingQueue, Synchronization)
+Author
+Team: Recruiters 
+Janvi Kumari
+Vaishnavi Singh
+Manya 
