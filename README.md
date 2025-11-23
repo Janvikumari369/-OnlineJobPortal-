@@ -47,6 +47,8 @@ Technologies
 - MySQL + JDBC
 - Collections Framework
 - Multithreading (Runnable, BlockingQueue, Synchronization)
+
+
 Author
 Team: Recruiters 
 Janvi Kumari
