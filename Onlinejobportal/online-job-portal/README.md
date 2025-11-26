@@ -1,7 +1,7 @@
 # Online Job Portal (Mini Java Project)
 
 ## Overview
-A console-based Java project that simulates an **Online Job Portal**.  
+A GUI-based Java project that simulates an **Online Job Portal**.  
 It demonstrates:
 - OOP concepts (Inheritance, Polymorphism, Interfaces, Exception Handling)
 - Collections & Generics
@@ -67,4 +67,5 @@ Author
 Team: Recruiters 
 Janvi Kumari
 Vaishnavi Singh
+
 Manya 
